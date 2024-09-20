@@ -1,11 +1,11 @@
 // app/layout.tsx
 import "./globals.css"; // Global styles
 import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
 
 export const metadata = {
   title: "Clinitime - Revolutionize Your Clinical Hours",
-  description: "Revolutionize your clinical hours with Clinitime’s features.",
+  description:
+    "Revolutionize your clinical hours with Clinitime&apos;s features.",
 };
 
 export default function RootLayout({

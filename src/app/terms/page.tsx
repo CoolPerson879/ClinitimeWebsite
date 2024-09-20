@@ -45,8 +45,9 @@ const TermsPage: React.FC = () => {
           States.
         </li>
         <li className="paragraph">
-          • <span className="bold">Company</span> (referred to as either "the
-          Company", "We", "Us" or "Our" in this Agreement) refers to Clinitime.
+          • <span className="bold">Company</span> (referred to as either &34;the
+          Company&34;, &34;We&34;, &34;Us&34; or &34;Our&34; in this Agreement)
+          refers to Clinitime.
         </li>
         <li className="paragraph">
           • <span className="bold">Device</span> means any device that can
@@ -116,16 +117,18 @@ const TermsPage: React.FC = () => {
       <p className="paragraph">
         Notwithstanding any damages that You might incur, the entire liability
         of the Company shall be limited to the amount actually paid by You
-        through the Service or 100 USD if You haven't purchased anything through
-        the Service.
+        through the Service or 100 USD if You haven&34;t purchased anything
+        through the Service.
       </p>
 
-      <h2 className="subHeader">"AS IS" and "AS AVAILABLE" Disclaimer</h2>
+      <h2 className="subHeader">
+        &34;AS IS&34; and &34;AS AVAILABLE&34; Disclaimer
+      </h2>
       <p className="paragraph">
-        The Service is provided to You "AS IS" and "AS AVAILABLE" without
-        warranty of any kind. To the maximum extent permitted under applicable
-        law, the Company expressly disclaims all warranties, whether express or
-        implied, with respect to the Service.
+        The Service is provided to You &34;AS IS&34; and &34;AS AVAILABLE&34;
+        without warranty of any kind. To the maximum extent permitted under
+        applicable law, the Company expressly disclaims all warranties, whether
+        express or implied, with respect to the Service.
       </p>
 
       <h2 className="subHeader">Governing Law</h2>

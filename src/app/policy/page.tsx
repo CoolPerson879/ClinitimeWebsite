@@ -90,7 +90,7 @@ const PolicyPage: React.FC = () => {
       <h3>Usage Data</h3>
       <p>
         Usage Data is collected automatically when using the Service, and may
-        include information such as Your Device's Internet Protocol address
+        include information such as Your Device&39;s Internet Protocol address
         (e.g. IP address), browser type, browser version, and other diagnostic
         data.
       </p>
@@ -137,7 +137,7 @@ const PolicyPage: React.FC = () => {
         transmission is 100% secure.
       </p>
 
-      <h3>Children's Privacy</h3>
+      <h3>Children&39;s Privacy</h3>
       <p>Our Service does not address anyone under the age of 13.</p>
 
       <h3>Links to Other Websites</h3>

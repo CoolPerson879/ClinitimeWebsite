@@ -56,9 +56,10 @@ const CookiePage: React.FC = () => {
       <h2>The use of the Cookies</h2>
       <h3>Type of Cookies We Use</h3>
       <p>
-        Cookies can be "Persistent" or "Session" Cookies. Persistent Cookies
-        remain on your personal computer or mobile device when You go offline,
-        while Session Cookies are deleted as soon as You close your web browser.
+        Cookies can be &#34;Persistent&#34; or &#34;Session&#34; Cookies.
+        Persistent Cookies remain on your personal computer or mobile device
+        when You go offline, while Session Cookies are deleted as soon as You
+        close your web browser.
       </p>
       <p>
         We use both session and persistent Cookies for the purposes set out
@@ -100,8 +101,9 @@ const CookiePage: React.FC = () => {
         in your use of the Website and some features may not function properly.
       </p>
       <p>
-        If You'd like to delete Cookies or instruct your web browser to delete
-        or refuse Cookies, please visit the help pages of your web browser.
+        If You&39;d like to delete Cookies or instruct your web browser to
+        delete or refuse Cookies, please visit the help pages of your web
+        browser.
       </p>
 
       <p>
@@ -134,8 +136,8 @@ const CookiePage: React.FC = () => {
       </p>
 
       <p>
-        For any other web browser, please visit your web browser's official web
-        pages.
+        For any other web browser, please visit your web browser&39;s official
+        web pages.
       </p>
 
       <h3>More Information about Cookies</h3>

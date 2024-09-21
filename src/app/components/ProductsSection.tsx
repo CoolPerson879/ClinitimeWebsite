@@ -19,7 +19,7 @@ const ProductsSection = () => {
           whileInView="visible"
         >
           <img
-            src="/2.png"
+            src="/2.PNG"
             alt="Product 1"
             className="w-full h-100 object-cover rounded-lg shadow-lg mb-4"
           />
@@ -37,7 +37,7 @@ const ProductsSection = () => {
           whileInView="visible"
         >
           <img
-            src="/3.png"
+            src="/3.PNG"
             alt="Product 2"
             className="w-full h-100 object-cover rounded-lg shadow-lg mb-4"
           />
@@ -55,7 +55,7 @@ const ProductsSection = () => {
           whileInView="visible"
         >
           <img
-            src="/5.png"
+            src="/5.PNG"
             alt="Product 3"
             className="w-full h-100 object-cover rounded-lg shadow-lg mb-4"
           />

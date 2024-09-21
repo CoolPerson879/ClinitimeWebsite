@@ -73,7 +73,7 @@ const ProductsSection = () => {
           whileInView="visible"
         >
           <img
-            src="/4.png"
+            src="/4.PNG"
             alt="Product 4"
             className="w-full h-100 object-cover rounded-lg shadow-lg mb-4"
           />
